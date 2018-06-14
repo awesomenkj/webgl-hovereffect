@@ -322,6 +322,35 @@ main {
     --item-text: #fff;
 }
 
+.theme-2 {
+	--item-bg: rgba(0,0,0,0.2);
+	--item-link: #fff;
+	--item-link-hover: #fff;
+	--item-meta: #fff;
+	--item-title: #fff;
+	--item-subtitle: #fff;
+	--item-text: #fff;
+}
+
+.theme-3 {
+	--item-bg: rgba(0,0,0,0.2);
+	--item-link: #fff;
+	--item-link-hover: #fff;
+	--item-meta: #fff;
+	--item-title: #fff;
+	--item-subtitle: #fff;
+	--item-text: #fff;
+}
+
+.theme-4 {
+	--item-bg: #12161e;
+    --item-link: #fff;
+    --item-link-hover: #9e6817;
+    --item-meta: #fff;
+    --item-title: #fff;
+    --item-subtitle: #fff;
+    --item-text: #fff;
+}
 
 
 @media screen and (min-width: 85em) {
