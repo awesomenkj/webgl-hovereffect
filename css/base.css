@@ -472,6 +472,36 @@ main {
     --item-text: #f6fbfe;
 }
 
+.theme-17 {
+	--item-bg: #ece7e5;
+    --item-link: #d68d13;
+    --item-link-hover: #2d2c2c;
+    --item-meta: #2d2c2c;
+    --item-title: #2d2c2c;
+    --item-subtitle: #2d2c2c;
+    --item-text: #2d2c2c;
+}
+
+.theme-18 {
+	--item-bg: rgba(0,0,0,0.2);
+    --item-link: #fff;
+    --item-link-hover: #fff;
+    --item-meta: #fff;
+    --item-title: #fff;
+    --item-subtitle: #fff;
+    --item-text: #fff;
+}
+
+.theme-19 {
+	--item-bg: rgba(0,0,0,0.1);
+    --item-link: #6317f5;
+    --item-link-hover: #fff;
+    --item-meta: #6317f5;
+    --item-title: #fff;
+    --item-subtitle: #6317f5;
+    --item-text: #fff;
+}
+
 
 @media screen and (min-width: 85em) {
 	.grid__item-text {
